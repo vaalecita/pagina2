@@ -1,0 +1,33 @@
+body{
+        background-color: #ebcda9;
+}
+.center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        width: 500px;
+}
+titulo{
+  font-family: 'Cabe Rawit', sans-serif;
+  font-size: 40px;
+  aling-content: center;   
+  }
+  table{
+        margin-left: 200px;
+        background-color: grey;
+        color: white;
+        text-aling: center;
+        width: 700px;
+  }
+  th{
+          color: black;
+}
+verde{
+    color:green;
+  }
+morado{
+    color:purple;
+}
+}
+}
